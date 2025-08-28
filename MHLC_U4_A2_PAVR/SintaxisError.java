@@ -4,4 +4,4 @@ public class SintaxisError { // se guarda el archivo bajo el mismo nombre que la
         int numero = 10; // faltaba ; 
         System.out.println("El número es: " + numero); //se agrega parentesis que faltaba
     }
-}
+} 

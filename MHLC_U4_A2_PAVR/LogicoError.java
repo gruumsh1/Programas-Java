@@ -7,4 +7,4 @@ public class LogicoError {// se guarda el archivo bajo el mismo nombre que la cl
         }
         System.out.println("La suma de los primeros 5 números es: " + suma);// el resultado de la suma estaba siendo multiplicada por 2
     }
-}
+} 

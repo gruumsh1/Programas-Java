@@ -6,4 +6,4 @@ public class SemanticoError { // se guarda el archivo bajo el mismo nombre que l
             System.out.println("Eres mayor de edad");
         }
     }
-}
+} 

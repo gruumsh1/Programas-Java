@@ -6,4 +6,4 @@ public class EjecucionError {// se guarda el archivo bajo el mismo nombre que la
         int resultado = numerador / denominador;
         System.out.println("Resultado: " + resultado);
     }
-}
+} 
